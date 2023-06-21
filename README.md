@@ -1,5 +1,4 @@
 # Text_Analysis_Great_Exp
-A Text analysis project for the infamous Charles Dickins novel The Great Expecations 
 📖 Text Analysis of "Great Expectations"
 
 Welcome to my latest project on text analysis of the novel "Great Expectations" by Charles Dickens. This project aims to analyze the language and sentiment of the novel using natural language processing (NLP) techniques.
